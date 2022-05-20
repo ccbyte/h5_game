@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HomePageSkin" width="1920" height="1080" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16f9caf978c" ></w:Config>
+	<e:Image id="bg" source="bg_png" x="0" y="0" width="100%" height="100%"/>
+	<e:Image id="headerTitle" source="logo_png" x="391" y="-319.5" scaleX="1.5" scaleY="1.5"/>
+	<e:Image id="headerTip" source="home-desc_png" x="-161" y="288" scaleX="2" scaleY="2" anchorOffsetX="80.5" anchorOffsetY="45.5"/>
+	<e:Image id="ringNewGame" source="new-game_png" x="960.25" y="720" anchorOffsetX="97.5" anchorOffsetY="97.5" scaleX="0" scaleY="0" alpha="1"/>
+	<e:Image id="contentNewGame" source="watermelon_png" x="960.25" y="720" scaleX="0" scaleY="0" anchorOffsetX="145" anchorOffsetY="118.5" alpha="1"/>
+</e:Skin>

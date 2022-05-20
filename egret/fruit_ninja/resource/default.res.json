@@ -1,0 +1,570 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,description_json,bg_png,2-note_png,4-note_png,8-note_png,apple_png,boom-1_png,boom-2_png,boom-3_png,boom-4_png,boom-5_png,boom-6_png,hami-melon_png,lemon_png,orange_png,orange-1_png,orange-2_png,pear_png,rest-note_png,two-8-note_png,watermelon_png,watermelon-1_png,watermelon-2_png,flash_png,home-desc_png,logo_png,new-game_png,boom_mp3,throw_mp3,hami-melon-2_png,hami-melon-1_png,pear-2_png,pear-1_png,lemon-1_png,lemon-2_png,apple-2_png,apple-1_png,apple-splash-1_png,orange-splash-2_png,orange-splash-1_png,splatter_mp3,xxx_png,xxxf_png,lose_png,x_png,xf_png,xx_png,xxf_png,game-over_png,apple-22_png,apple-4_png,apple-8_png,apple-rest_png,apple-two-8_png,hami-melon-22_png,hami-melon-4_png,hami-melon-8_png,hami-melon-rest_png,hami-melon-two-8_png,lemon-22_png,lemon-4_png,lemon-8_png,lemon-rest_png,lemon-two-8_png,orange-22_png,orange-4_png,orange-8_png,orange-rest_png,orange-two-8_png,pear-22_png,pear-4_png,pear-8_png,pear-rest_png,pear-two-8_png,watermelon-22_png,watermelon-4_png,watermelon-8_png,watermelon-rest_png,watermelon-two-8_png,watermelon-two-82_png,apple-splash-2_png,pear-splash-1_png,pear-splash-2_png,watermelon-splash-1_png,hami-melon-splash-1_png,hami-melon-splash-2_png,lemon-splash-1_png,lemon-splash-2_png,watermelon-splash-2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/images/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "assets/images/fruit/2-note.png",
+			"type": "image",
+			"name": "2-note_png"
+		},
+		{
+			"url": "assets/images/fruit/4-note.png",
+			"type": "image",
+			"name": "4-note_png"
+		},
+		{
+			"url": "assets/images/fruit/8-note.png",
+			"type": "image",
+			"name": "8-note_png"
+		},
+		{
+			"url": "assets/images/fruit/apple.png",
+			"type": "image",
+			"name": "apple_png"
+		},
+		{
+			"url": "assets/images/fruit/boom-1.png",
+			"type": "image",
+			"name": "boom-1_png"
+		},
+		{
+			"url": "assets/images/fruit/boom-2.png",
+			"type": "image",
+			"name": "boom-2_png"
+		},
+		{
+			"url": "assets/images/fruit/boom-3.png",
+			"type": "image",
+			"name": "boom-3_png"
+		},
+		{
+			"url": "assets/images/fruit/boom-4.png",
+			"type": "image",
+			"name": "boom-4_png"
+		},
+		{
+			"url": "assets/images/fruit/boom-5.png",
+			"type": "image",
+			"name": "boom-5_png"
+		},
+		{
+			"url": "assets/images/fruit/boom-6.png",
+			"type": "image",
+			"name": "boom-6_png"
+		},
+		{
+			"url": "assets/images/fruit/hami-melon.png",
+			"type": "image",
+			"name": "hami-melon_png"
+		},
+		{
+			"url": "assets/images/fruit/lemon.png",
+			"type": "image",
+			"name": "lemon_png"
+		},
+		{
+			"url": "assets/images/fruit/orange.png",
+			"type": "image",
+			"name": "orange_png"
+		},
+		{
+			"url": "assets/images/fruit/orange-1.png",
+			"type": "image",
+			"name": "orange-1_png"
+		},
+		{
+			"url": "assets/images/fruit/orange-2.png",
+			"type": "image",
+			"name": "orange-2_png"
+		},
+		{
+			"url": "assets/images/fruit/pear.png",
+			"type": "image",
+			"name": "pear_png"
+		},
+		{
+			"url": "assets/images/fruit/rest-note.png",
+			"type": "image",
+			"name": "rest-note_png"
+		},
+		{
+			"url": "assets/images/fruit/two-8-note.png",
+			"type": "image",
+			"name": "two-8-note_png"
+		},
+		{
+			"url": "assets/images/fruit/watermelon.png",
+			"type": "image",
+			"name": "watermelon_png"
+		},
+		{
+			"url": "assets/images/fruit/watermelon-1.png",
+			"type": "image",
+			"name": "watermelon-1_png"
+		},
+		{
+			"url": "assets/images/fruit/watermelon-2.png",
+			"type": "image",
+			"name": "watermelon-2_png"
+		},
+		{
+			"url": "assets/images/flash.png",
+			"type": "image",
+			"name": "flash_png"
+		},
+		{
+			"url": "assets/images/home-desc.png",
+			"type": "image",
+			"name": "home-desc_png"
+		},
+		{
+			"url": "assets/images/logo.png",
+			"type": "image",
+			"name": "logo_png"
+		},
+		{
+			"url": "assets/images/new-game.png",
+			"type": "image",
+			"name": "new-game_png"
+		},
+		{
+			"url": "assets/sound/boom.mp3",
+			"type": "sound",
+			"name": "boom_mp3"
+		},
+		{
+			"url": "assets/sound/throw.mp3",
+			"type": "sound",
+			"name": "throw_mp3"
+		},
+		{
+			"url": "assets/images/fruit/hami-melon-2.png",
+			"type": "image",
+			"name": "hami-melon-2_png"
+		},
+		{
+			"url": "assets/images/fruit/hami-melon-1.png",
+			"type": "image",
+			"name": "hami-melon-1_png"
+		},
+		{
+			"url": "assets/images/fruit/pear-2.png",
+			"type": "image",
+			"name": "pear-2_png"
+		},
+		{
+			"url": "assets/images/fruit/pear-1.png",
+			"type": "image",
+			"name": "pear-1_png"
+		},
+		{
+			"url": "assets/images/fruit/lemon-1.png",
+			"type": "image",
+			"name": "lemon-1_png"
+		},
+		{
+			"url": "assets/images/fruit/lemon-2.png",
+			"type": "image",
+			"name": "lemon-2_png"
+		},
+		{
+			"url": "assets/images/fruit/apple-2.png",
+			"type": "image",
+			"name": "apple-2_png"
+		},
+		{
+			"url": "assets/images/fruit/apple-1.png",
+			"type": "image",
+			"name": "apple-1_png"
+		},
+		{
+			"url": "assets/images/fruit/apple-splash-1.png",
+			"type": "image",
+			"name": "apple-splash-1_png"
+		},
+		{
+			"url": "assets/images/fruit/orange-splash-2.png",
+			"type": "image",
+			"name": "orange-splash-2_png"
+		},
+		{
+			"url": "assets/images/fruit/orange-splash-1.png",
+			"type": "image",
+			"name": "orange-splash-1_png"
+		},
+		{
+			"url": "assets/sound/splatter.mp3",
+			"type": "sound",
+			"name": "splatter_mp3"
+		},
+		{
+			"url": "assets/images/xxx.png",
+			"type": "image",
+			"name": "xxx_png"
+		},
+		{
+			"url": "assets/images/xxxf.png",
+			"type": "image",
+			"name": "xxxf_png"
+		},
+		{
+			"url": "assets/images/lose.png",
+			"type": "image",
+			"name": "lose_png"
+		},
+		{
+			"url": "assets/images/x.png",
+			"type": "image",
+			"name": "x_png"
+		},
+		{
+			"url": "assets/images/xf.png",
+			"type": "image",
+			"name": "xf_png"
+		},
+		{
+			"url": "assets/images/xx.png",
+			"type": "image",
+			"name": "xx_png"
+		},
+		{
+			"url": "assets/images/xxf.png",
+			"type": "image",
+			"name": "xxf_png"
+		},
+		{
+			"url": "assets/images/game-over.png",
+			"type": "image",
+			"name": "game-over_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/apple-2.png",
+			"type": "image",
+			"name": "apple-22_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/apple-4.png",
+			"type": "image",
+			"name": "apple-4_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/apple-8.png",
+			"type": "image",
+			"name": "apple-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/apple-rest.png",
+			"type": "image",
+			"name": "apple-rest_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/apple-two-8.png",
+			"type": "image",
+			"name": "apple-two-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/hami-melon-2.png",
+			"type": "image",
+			"name": "hami-melon-22_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/hami-melon-4.png",
+			"type": "image",
+			"name": "hami-melon-4_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/hami-melon-8.png",
+			"type": "image",
+			"name": "hami-melon-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/hami-melon-rest.png",
+			"type": "image",
+			"name": "hami-melon-rest_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/hami-melon-two-8.png",
+			"type": "image",
+			"name": "hami-melon-two-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/lemon-2.png",
+			"type": "image",
+			"name": "lemon-22_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/lemon-4.png",
+			"type": "image",
+			"name": "lemon-4_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/lemon-8.png",
+			"type": "image",
+			"name": "lemon-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/lemon-rest.png",
+			"type": "image",
+			"name": "lemon-rest_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/lemon-two-8.png",
+			"type": "image",
+			"name": "lemon-two-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/orange-2.png",
+			"type": "image",
+			"name": "orange-22_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/orange-4.png",
+			"type": "image",
+			"name": "orange-4_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/orange-8.png",
+			"type": "image",
+			"name": "orange-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/orange-rest.png",
+			"type": "image",
+			"name": "orange-rest_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/orange-two-8.png",
+			"type": "image",
+			"name": "orange-two-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/pear-2.png",
+			"type": "image",
+			"name": "pear-22_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/pear-4.png",
+			"type": "image",
+			"name": "pear-4_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/pear-8.png",
+			"type": "image",
+			"name": "pear-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/pear-rest.png",
+			"type": "image",
+			"name": "pear-rest_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/pear-two-8.png",
+			"type": "image",
+			"name": "pear-two-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/watermelon-2.png",
+			"type": "image",
+			"name": "watermelon-22_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/watermelon-4.png",
+			"type": "image",
+			"name": "watermelon-4_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/watermelon-8.png",
+			"type": "image",
+			"name": "watermelon-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/watermelon-rest.png",
+			"type": "image",
+			"name": "watermelon-rest_png"
+		},
+		{
+			"url": "assets/images/fruit/watermelon-two-8.png",
+			"type": "image",
+			"name": "watermelon-two-8_png"
+		},
+		{
+			"url": "assets/images/fruit/fruit_note/watermelon-two-8.png",
+			"type": "image",
+			"name": "watermelon-two-82_png"
+		},
+		{
+			"url": "assets/images/fruit/apple-splash-2.png",
+			"type": "image",
+			"name": "apple-splash-2_png"
+		},
+		{
+			"url": "assets/images/fruit/pear-splash-1.png",
+			"type": "image",
+			"name": "pear-splash-1_png"
+		},
+		{
+			"url": "assets/images/fruit/pear-splash-2.png",
+			"type": "image",
+			"name": "pear-splash-2_png"
+		},
+		{
+			"url": "assets/images/fruit/watermelon-splash-1.png",
+			"type": "image",
+			"name": "watermelon-splash-1_png"
+		},
+		{
+			"url": "assets/images/fruit/hami-melon-splash-1.png",
+			"type": "image",
+			"name": "hami-melon-splash-1_png"
+		},
+		{
+			"url": "assets/images/fruit/hami-melon-splash-2.png",
+			"type": "image",
+			"name": "hami-melon-splash-2_png"
+		},
+		{
+			"url": "assets/images/fruit/lemon-splash-1.png",
+			"type": "image",
+			"name": "lemon-splash-1_png"
+		},
+		{
+			"url": "assets/images/fruit/lemon-splash-2.png",
+			"type": "image",
+			"name": "lemon-splash-2_png"
+		},
+		{
+			"url": "assets/images/fruit/watermelon-splash-2.png",
+			"type": "image",
+			"name": "watermelon-splash-2_png"
+		}
+	]
+}

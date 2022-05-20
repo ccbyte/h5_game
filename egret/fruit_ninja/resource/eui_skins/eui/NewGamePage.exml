@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewGamePageSkin" width="1920" height="1080" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="17009eb15c6" ></w:Config>
+	<e:Image id="bg" source="bg_png" x="0" y="0" width="1920" height="1080" locked="true"/>
+	<e:Image id="gameX" source="x_png" x="1921" y="214" scaleX="2" scaleY="2"/>
+	<e:Image id="gameXX" source="xx_png" x="1943" y="217.5" scaleX="2" scaleY="2"/>
+	<e:Image id="gameXXX" source="xxx_png" x="1970" y="214.5" scaleX="2" scaleY="2"/>
+	<e:Image id="gameXF" x="1509" y="214" scaleX="0" scaleY="0" source="xf_png"/>
+	<e:Image id="gameXXF" x="1570" y="217.5" scaleX="0" scaleY="0" source="xxf_png"/>
+	<e:Image id="gameXXXF" x="1644" y="214.5" scaleX="0" scaleY="0" source="xxxf_png"/>
+	<e:Image id="gameover" source="game-over_png" x="470" y="455" alpha="0" scaleX="0" scaleY="0" width="477" height="129"/>
+</e:Skin>

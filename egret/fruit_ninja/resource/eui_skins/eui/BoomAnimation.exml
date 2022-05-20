@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BoomAnimationSkin" height="271" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*" width="217">
+	<w:Declarations>
+		<tween:TweenGroup id="boomEffect">
+			<tween:TweenItem target="{boom}">
+				<tween:Set/>
+				<tween:Wait duration="100"/>
+				<tween:Set>
+					<tween:props>
+						<e:Object alpha="{0}"/>
+					</tween:props>
+				</tween:Set>
+			</tween:TweenItem>
+			<tween:TweenItem target="{boom2}">
+				<tween:Wait duration="100"/>
+				<tween:Set>
+					<tween:props>
+						<e:Object alpha="{1}" y="{-44.5}" x="{-34.5}"/>
+					</tween:props>
+				</tween:Set>
+				<tween:Wait duration="100"/>
+				<tween:Set>
+					<tween:props>
+						<e:Object alpha="{0}"/>
+					</tween:props>
+				</tween:Set>
+			</tween:TweenItem>
+			<tween:TweenItem target="{boom3}">
+				<tween:Wait duration="200"/>
+				<tween:Set>
+					<tween:props>
+						<e:Object alpha="{1}" x="{-42.5}" y="{-44.5}"/>
+					</tween:props>
+				</tween:Set>
+				<tween:Wait duration="100"/>
+				<tween:Set>
+					<tween:props>
+						<e:Object alpha="{0}"/>
+					</tween:props>
+				</tween:Set>
+			</tween:TweenItem>
+			<tween:TweenItem target="{boom4}">
+				<tween:Wait duration="300"/>
+				<tween:Set>
+					<tween:props>
+						<e:Object alpha="{1}" x="{-42.5}" y="{-44.5}"/>
+					</tween:props>
+				</tween:Set>
+				<tween:Wait duration="100"/>
+				<tween:Set>
+					<tween:props>
+						<e:Object alpha="{0}"/>
+					</tween:props>
+				</tween:Set>
+			</tween:TweenItem>
+			<tween:TweenItem target="{boom5}">
+				<tween:Wait duration="400"/>
+				<tween:Set>
+					<tween:props>
+						<e:Object alpha="{1}" x="{-42.5}" y="{-22.5}"/>
+					</tween:props>
+				</tween:Set>
+				<tween:Wait duration="100"/>
+				<tween:Set>
+					<tween:props>
+						<e:Object alpha="{0}"/>
+					</tween:props>
+				</tween:Set>
+			</tween:TweenItem>
+		</tween:TweenGroup>
+	</w:Declarations>
+	<e:Image id="boom" source="boom-1_png" x="21.7" y="27.1" scaleX="0.8" scaleY="0.8" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image id="boom2" source="boom-2_png" x="-39" y="-44.5" scaleX="0.8" scaleY="0.8" alpha="0" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image id="boom3" source="boom-3_png" x="-51.5" y="-63.5" scaleX="0.8" scaleY="0.8" alpha="0" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image id="boom4" source="boom-4_png" x="-42.5" y="-44.5" scaleX="0.8" scaleY="0.8" alpha="0" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image id="boom5" source="boom-5_png" x="-51.5" y="-24.5" scaleX="0.8" scaleY="0.8" alpha="0" anchorOffsetX="0" anchorOffsetY="0"/>
+</e:Skin>
